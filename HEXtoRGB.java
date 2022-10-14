@@ -1,5 +1,3 @@
-package editedClasses;
-
 import java.awt.Color;
 
 
